@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 echo "WelCome to EmployeeWage computation"
+=======
 #!/bin/bash
 function EmployeeAttendence(){
 	echo "Employee attendence"
@@ -9,4 +11,4 @@ else
 fi
 }
 EmployeeAttendence
-
+>>>>>>> userCase1
